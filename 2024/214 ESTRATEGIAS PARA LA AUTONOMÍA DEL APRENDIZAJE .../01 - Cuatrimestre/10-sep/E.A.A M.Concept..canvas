@@ -1,0 +1,388 @@
+{
+  "nodes": [
+    {
+      "id": "8dd7a4440c5c5b35",
+      "type": "text",
+      "text": "\nLa autonomía es un concepto que engloba la capacidad de actuar de forma independiente y tomar decisiones sin depender de factores externos. Este principio es aplicable en varias áreas, como la filosofía, psicología, política y educación. A continuación, se presenta una estructura organizada para crear un **mapa conceptual** que cumpla con los **criterios de evaluación** establecidos, integrando los principales componentes y teorías de la autonomía, así como ejemplos prácticos.\n\n[lINK DE REF](https://books.google.es/books?id=fqfkCgAAQBAJ&lpg=PA145&ots=b77hwIh22T&dq=AUTONOMIA%20DEL%20APRENDIZAJE%20CONCEPTO&lr&hl=es&pg=PA145#v=onepage&q=AUTONOMIA%20DEL%20APRENDIZAJE%20CONCEPTO&f=false)",
+      "styleAttributes": {},
+      "x": -140,
+      "y": 20,
+      "width": 500,
+      "height": 422
+    },
+    {
+      "id": "4d32832fca7b8ede",
+      "type": "text",
+      "text": "#### Conceptualización de la Autonomía",
+      "styleAttributes": {},
+      "x": -180,
+      "y": -155,
+      "width": 440,
+      "height": 88
+    },
+    {
+      "id": "4d17538e466549c9",
+      "type": "text",
+      "text": "#### **Componentes Clave de la Autonomía**",
+      "styleAttributes": {},
+      "x": -1100,
+      "y": -142,
+      "width": 320,
+      "height": 75
+    },
+    {
+      "id": "92053432a3891e6e",
+      "type": "text",
+      "text": "#### Objetivos Generales y Específicos",
+      "styleAttributes": {},
+      "x": -660,
+      "y": -155,
+      "width": 440,
+      "height": 88
+    },
+    {
+      "id": "ddf4958af905dae9",
+      "type": "text",
+      "text": "# Autonomia del aprendizaje\n",
+      "styleAttributes": {},
+      "x": -530,
+      "y": -480,
+      "width": 640,
+      "height": 110,
+      "color": "1"
+    },
+    {
+      "id": "564b90817a76018b",
+      "type": "text",
+      "text": "Objetivo General:",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 20,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "330f0b29796d1b9d",
+      "type": "text",
+      "text": "Comprender las diferentes dimensiones del concepto de autonomía y su relevancia en el desarrollo personal, social y profesional.",
+      "styleAttributes": {},
+      "x": -750,
+      "y": 140,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d602ef1e24127936",
+      "type": "text",
+      "text": "Objetivos Específicos:",
+      "styleAttributes": {},
+      "x": -420,
+      "y": 110,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5585703951b1fe18",
+      "type": "text",
+      "text": "Definir la autonomía y sus componentes clave: independencia, toma de decisiones y autodeterminación.",
+      "styleAttributes": {},
+      "x": -720,
+      "y": 322,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "dddaf1a80f85e653",
+      "type": "text",
+      "text": "Desarrollar estrategias para promover la autonomía en diferentes entornos.\n",
+      "styleAttributes": {},
+      "x": -720,
+      "y": 412,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3d363d420631fccb",
+      "type": "text",
+      "text": "Analizar casos prácticos donde la autonomía juega un papel esencial.",
+      "styleAttributes": {},
+      "x": -720,
+      "y": 502,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "757946296d48b546",
+      "type": "text",
+      "text": "Explorar las teorías que explican la autonomía en distintos contextos.",
+      "styleAttributes": {},
+      "x": -720,
+      "y": 602,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4e6fa3765b2ac6f7",
+      "type": "text",
+      "text": "**Teoría Liberal**: La autonomía es vista como un principio esencial para la libertad individual. Se respeta cuando las personas pueden tomar decisiones sin perjudicar a otros.",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": 290,
+      "width": 792,
+      "height": 91
+    },
+    {
+      "id": "c91029cdb949f3ac",
+      "type": "text",
+      "text": " **Teoría de la Autonomía Relacional**: Propuesta por **Nancy Fraser**, esta teoría sugiere que la autonomía está influenciada por relaciones sociales y contextos que facilitan o restringen la capacidad de ser autónomo.",
+      "styleAttributes": {},
+      "x": -2219,
+      "y": 79,
+      "width": 695,
+      "height": 181
+    },
+    {
+      "id": "2e326d324b5fe974",
+      "type": "text",
+      "text": "**Vida Profesional**: En el ámbito laboral, la autonomía se refleja en la capacidad de los empleados para tomar decisiones en sus tareas, lo que mejora su satisfacción y productividad.\n",
+      "styleAttributes": {},
+      "x": 560,
+      "y": -130,
+      "width": 440,
+      "height": 210
+    },
+    {
+      "id": "374cd56e2223a029",
+      "type": "text",
+      "text": "**Política**: La autonomía es esencial en los derechos humanos, promoviendo la autodeterminación en decisiones personales y políticas.",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 110,
+      "width": 480,
+      "height": 121
+    },
+    {
+      "id": "f788c479179d3083",
+      "type": "text",
+      "text": "**Educación**: La autonomía en el aprendizaje permite a los estudiantes gestionar su tiempo, elegir temas de estudio y autoevaluarse, lo que fomenta su independencia académica.",
+      "styleAttributes": {},
+      "x": 580,
+      "y": 260,
+      "width": 380,
+      "height": 211
+    },
+    {
+      "id": "8aa3d76e1821ac7a",
+      "type": "text",
+      "text": "1. **Independencia**: Capacidad de actuar sin depender de otros. En psicología, se refiere a la capacidad de tomar decisiones importantes de manera autónoma.\n   \n2. **Toma de Decisiones**: Evaluar opciones y tomar decisiones en base a preferencias personales y valores, considerando las consecuencias.\n   \n3. **Autodeterminación**: Capacidad de influir en el propio destino y decisiones que impactan la vida personal. Este componente es crucial en áreas como la política y la educación.",
+      "styleAttributes": {},
+      "x": -1348,
+      "y": 20,
+      "width": 568,
+      "height": 334
+    },
+    {
+      "id": "756f27588b864d3e",
+      "type": "text",
+      "text": "#### **Teorías sobre la Autonomía**",
+      "styleAttributes": {},
+      "x": -1654,
+      "y": -166,
+      "width": 460,
+      "height": 62
+    },
+    {
+      "id": "47529ff670bbb0ad",
+      "type": "text",
+      "text": "#### Ejemplos Prácticos de Autonomía",
+      "styleAttributes": {},
+      "x": 280,
+      "y": -240,
+      "width": 500,
+      "height": 60
+    },
+    {
+      "id": "61bf1355e303045c",
+      "type": "text",
+      "text": "4493 JESUS URIEL SANTANA OLIVA",
+      "styleAttributes": {},
+      "x": -1020,
+      "y": -455,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "324587745adb726e",
+      "type": "text",
+      "text": "**Psicología del Desarrollo**: Según **Erik Erikson**, la autonomía es fundamental en el desarrollo de la identidad, especialmente durante la adolescencia.",
+      "styleAttributes": {},
+      "x": -2243,
+      "y": 422,
+      "width": 795,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {
+      "id": "7d3f2a7b166addd6",
+      "styleAttributes": {},
+      "fromNode": "ddf4958af905dae9",
+      "fromSide": "bottom",
+      "toNode": "756f27588b864d3e",
+      "toSide": "top"
+    },
+    {
+      "id": "0e9447363b54c517",
+      "styleAttributes": {},
+      "fromNode": "ddf4958af905dae9",
+      "fromSide": "bottom",
+      "toNode": "4d17538e466549c9",
+      "toSide": "top"
+    },
+    {
+      "id": "7e82f5f3c8051126",
+      "styleAttributes": {},
+      "fromNode": "ddf4958af905dae9",
+      "fromSide": "bottom",
+      "toNode": "47529ff670bbb0ad",
+      "toSide": "top"
+    },
+    {
+      "id": "0db3a168ce34cb1e",
+      "styleAttributes": {},
+      "fromNode": "ddf4958af905dae9",
+      "fromSide": "bottom",
+      "toNode": "4d32832fca7b8ede",
+      "toSide": "top"
+    },
+    {
+      "id": "af64cf127e8bd847",
+      "styleAttributes": {},
+      "fromNode": "4d32832fca7b8ede",
+      "fromSide": "bottom",
+      "toNode": "8dd7a4440c5c5b35",
+      "toSide": "top"
+    },
+    {
+      "id": "353474c72de43e27",
+      "styleAttributes": {},
+      "fromNode": "ddf4958af905dae9",
+      "fromSide": "bottom",
+      "toNode": "92053432a3891e6e",
+      "toSide": "top"
+    },
+    {
+      "id": "da9afcac8934b041",
+      "styleAttributes": {},
+      "fromNode": "92053432a3891e6e",
+      "fromSide": "bottom",
+      "toNode": "564b90817a76018b",
+      "toSide": "top"
+    },
+    {
+      "id": "57889d79615a18dd",
+      "styleAttributes": {},
+      "fromNode": "92053432a3891e6e",
+      "fromSide": "bottom",
+      "toNode": "d602ef1e24127936",
+      "toSide": "top"
+    },
+    {
+      "id": "8e0ec7680ac3236c",
+      "styleAttributes": {},
+      "fromNode": "564b90817a76018b",
+      "fromSide": "bottom",
+      "toNode": "330f0b29796d1b9d",
+      "toSide": "top"
+    },
+    {
+      "id": "3a0e811d4089225d",
+      "styleAttributes": {},
+      "fromNode": "d602ef1e24127936",
+      "fromSide": "left",
+      "toNode": "5585703951b1fe18",
+      "toSide": "right"
+    },
+    {
+      "id": "168c26c7c2fa31d2",
+      "styleAttributes": {},
+      "fromNode": "d602ef1e24127936",
+      "fromSide": "left",
+      "toNode": "dddaf1a80f85e653",
+      "toSide": "right"
+    },
+    {
+      "id": "a0e22bd625f3f4d2",
+      "styleAttributes": {},
+      "fromNode": "d602ef1e24127936",
+      "fromSide": "left",
+      "toNode": "3d363d420631fccb",
+      "toSide": "right"
+    },
+    {
+      "id": "04e463fe8f3342d3",
+      "styleAttributes": {},
+      "fromNode": "d602ef1e24127936",
+      "fromSide": "left",
+      "toNode": "757946296d48b546",
+      "toSide": "right"
+    },
+    {
+      "id": "ec3bb63480f49b74",
+      "styleAttributes": {},
+      "fromNode": "4d17538e466549c9",
+      "fromSide": "bottom",
+      "toNode": "8aa3d76e1821ac7a",
+      "toSide": "top"
+    },
+    {
+      "id": "3fc4d125e91236e5",
+      "styleAttributes": {},
+      "fromNode": "756f27588b864d3e",
+      "fromSide": "bottom",
+      "toNode": "c91029cdb949f3ac",
+      "toSide": "right"
+    },
+    {
+      "id": "514926741fafd970",
+      "styleAttributes": {},
+      "fromNode": "756f27588b864d3e",
+      "fromSide": "bottom",
+      "toNode": "4e6fa3765b2ac6f7",
+      "toSide": "right"
+    },
+    {
+      "id": "0209e956992d621f",
+      "styleAttributes": {},
+      "fromNode": "756f27588b864d3e",
+      "fromSide": "bottom",
+      "toNode": "324587745adb726e",
+      "toSide": "right"
+    },
+    {
+      "id": "5f701ff0e9708342",
+      "styleAttributes": {},
+      "fromNode": "47529ff670bbb0ad",
+      "fromSide": "bottom",
+      "toNode": "2e326d324b5fe974",
+      "toSide": "left"
+    },
+    {
+      "id": "a30fc2e37cf607a8",
+      "styleAttributes": {},
+      "fromNode": "47529ff670bbb0ad",
+      "fromSide": "bottom",
+      "toNode": "374cd56e2223a029",
+      "toSide": "left"
+    },
+    {
+      "id": "fb51e74207056e68",
+      "styleAttributes": {},
+      "fromNode": "47529ff670bbb0ad",
+      "fromSide": "bottom",
+      "toNode": "f788c479179d3083",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

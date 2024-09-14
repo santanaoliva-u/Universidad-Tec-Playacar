@@ -1,0 +1,1 @@
+214 ESTRATEGIAS PARA LA AUTONOMÍA DEL APRENDIZAJE 25-1: Sesión de clases en línea - 15:00 a 16:30 horas - martes y vierneshttps://moodle.tecplayacar.edu.mx/mod/googlemeet/view.php?id=76729
